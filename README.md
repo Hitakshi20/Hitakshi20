@@ -47,10 +47,8 @@ Feel free to reach out if you want to collaborate or discuss opportunities!
 ---
 
 ## 📫 How to reach me:
-- **LinkedIn**: [linkedin.com/in/hitakshitanna](https://linkedin.com/in/hitakshitanna)
-- **Email**: [Your email address]
+- **LinkedIn**: [linkedin.com/in/hitakshitanna](https://linkedin.com/in/hitakshi-tanna)
+- **Email**: [hitakshitanna5@gmail.com]
 
 ---
 
-## 📊 GitHub Stats:
-![Hitakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitakshitanna&show_icons=true&theme=radical)
