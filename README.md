@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Hitakshi Tanna!
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 ### 🌟 Welcome to my GitHub profile!
 
 I'm currently pursuing my **Master's in Information Systems** at **UMBC**, where I focus on ethical and responsible AI, data analysis, and advanced information systems. I'm passionate about applying technology to solve real-world problems and constantly exploring new areas, such as **DevOps**, **Business Analysis**, and **Advanced AI Algorithms**.
