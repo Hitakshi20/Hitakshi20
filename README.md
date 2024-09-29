@@ -1,27 +1,25 @@
 # Hi there 👋, I'm Hitakshi Tanna!
 
+## 🚀 About Me
 ### 🎓 Graduate Student | Data Enthusiast | Aspiring Data Analyst 
 
-Pursuing a **Master’s in Information Systems** at the **University of Maryland, Baltimore County (UMBC)**, where I focus on areas like **data mining**, **Advanced AI Algorithms**, and **ethical AI frameworks**. With hands-on experience in **data analysis**, **web development**, and **cybersecurity**, I'm passionate about utilizing my technical skills to solve real-world challenges and create impactful solutions.
+Pursuing a **Master’s in Information Systems** at the **University of Maryland, Baltimore County (UMBC)**, where I focus on areas like **data mining**, **Advanced AI Algorithms**, and **ethical AI frameworks**. With hands-on experience in **data analysis**, **data visualization**, and **web development**, I'm passionate about utilizing my technical skills to solve real-world challenges and create impactful solutions.
 
 ---
 
-## 🔭 Projects
+## 🛠️ Skills
 
-### 1. [Sentiment Analysis on Amazon Reviews](https://github.com/Hitakshi20/sentiment-analysis-amazon-reviews) (May 2024)
-- **Tech Stack**: Python, Natural Language Processing (NLP), Machine Learning
-- Analyzed Amazon product reviews, focusing on the **electronics** category.
-- Built a supervised learning model to classify reviews into positive or negative sentiments using **NLP** techniques and **machine learning** algorithms.
+### Programming Languages
+- Python, HTML, CSS, JavaScript, Advanced SQL, PL/SQL, Dynamic SQL, R
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 
-### 2. [Exploratory Data Analysis on IPL Dataset](https://github.com/Hitakshi20/eda-ipl-dataset) (April 2024)
-- **Tech Stack**: Python, Pandas, NumPy, Matplotlib
-- Conducted an extensive **Exploratory Data Analysis (EDA)** on **Indian Premier League (IPL)** data from 2008-2022.
-- Analyzed and visualized player performances, team dynamics, and match trends using various Python libraries.
+### Technologies
+- MS Office (Excel, Word, PowerPoint), Tableau, Power BI, Weka, Visual Studio, Oracle SQL Developer, Jupyter Notebook
 
-### 3. [Alumni Management Portal](https://github.com/Hitakshi20/alumni-management-portal) (May 2022)
-- **Tech Stack**: HTML, CSS, JavaScript, Django, Python
-- Developed a web portal for alumni engagement, which included user authentication, event announcements, and job postings.
-- Enhanced engagement by 20% through a secure and user-friendly platform, designed for international alumni.
+### Interpersonal Skills
+- Team Collaboration, Event Planning, Communication Skills, Problem Solving, Time Management, Social Media Management, Networking
 
 ---
 
@@ -37,16 +35,6 @@ Pursuing a **Master’s in Information Systems** at the **University of Maryland
 
 ---
 
-## 🛠️ Technical Skills
-
-### Programming Languages
-- Python, HTML, CSS, JavaScript, Advanced SQL, PL/SQL, Dynamic SQL, R
-
-### Technologies
-- MS Office (Excel, Word, PowerPoint), Tableau, Power BI, Weka, Visual Studio, Oracle SQL Developer, Jupyter Notebook
-
-### Interpersonal Skills
-- Team Collaboration, Event Planning, Communication Skills, Problem Solving, Time Management, Social Media Management, Networking
 
 ---
 
