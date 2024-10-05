@@ -2,7 +2,7 @@
 ## 🚀 About Me
 
 
-## 🏫 Education
+### 🏫 Education
 - *Master of Science - Information Systems*, ***University of Maryland Baltimore County*** (Aug 2023 - May 2025)
 - *Bachelor of Engineering - Electronics & Telecommunication Engineering*, ***K. J. Somaiya Institute of Technology*** (Aug 2019 - May 2022)
 
@@ -20,7 +20,7 @@
 
 
 
-## 🛠️ Skills
+### 🛠️ Skills
 
 ## Programming Languages
 - Python, HTML, CSS, JavaScript, Advanced SQL, PL/SQL, Dynamic SQL, R
@@ -31,7 +31,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Pyhton"  alt="Python" width="40" height="40"/>&nbsp;
 
 
-## 🎯  Skills 
+### 🎯  Skills 
 - ***Languages***: Python, R, HTML, CSS, JavaScript.
 - ***Databases***: SQL, MySQL, PostgreSQL, PL/SQL.
 - ***Libraries***:  Pandas, NumPy, Matplotlib, SciPy, seaborn, scikit-learn, PyTorch, TensorFlow, Keras, NLTK, OpenCV, Pillow, statsmodels, spaCy.
@@ -42,20 +42,20 @@
 - ***Development Tools***: AWS (SageMaker, Lambda, S3, EC2, ECS, S3, Glue, RDS, Redshift), Microsoft Azure, Google Cloud Platform, Hadoop, Spark, Hive.
 - ***OCEANS***: argopy, cmocean, xarray, pyleoclim.
 
---
 
-## 📫 Let’s Connect!
+
+### 📫 Let’s Connect!
 
 - **LinkedIn**: [linkedin.com/in/hitakshi-tanna](https://www.linkedin.com/in/hitakshi-tanna)
 - **GitHub**: [github.com/Hitakshi20](https://github.com/Hitakshi20)
 - **Email**: [htanna1@umbc.edu](mailto:htanna1@umbc.edu)
 
----
 
-## 🌱 Currently Learning
+
+### 🌱 Currently Learning
 - **Advacned Airtifical Intelligence Algorithms** exploring frameworks in Ethical AI
 
----
+
 
 ## 👩‍💼 Open to Opportunities
 I am seeking **2025 internships or full-time roles** for:
