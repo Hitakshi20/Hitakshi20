@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Hitakshi Tanna!
-### 🎓 Graduate Student | Data Enthusiast | Aspiring Data Analyst 
+## 🎓 Graduate Student | Data Enthusiast | Aspiring Data Analyst 
 
 ## 🚀 About Me
 
