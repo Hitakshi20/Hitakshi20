@@ -18,7 +18,7 @@
 •	Completed 30 hours of Kube Academy courses, achieving a 25% proficiency increase in containerization and Kubernetes.
 •	Engaged in 10 VMware Hands-on Labs, resulting in a 30% improvement in virtualization and cloud computing proficiency.
 
------
+-
 
 ## 🛠️ Skills
 
@@ -41,7 +41,8 @@
 - ***Statistical Analysis***: Hypothesis Testing, A/B Testing, ANOVA, Descriptive/Predictive Analytics.
 - ***Development Tools***: AWS (SageMaker, Lambda, S3, EC2, ECS, S3, Glue, RDS, Redshift), Microsoft Azure, Google Cloud Platform, Hadoop, Spark, Hive.
 - ***OCEANS***: argopy, cmocean, xarray, pyleoclim.
----
+
+--
 
 ## 📫 Let’s Connect!
 
