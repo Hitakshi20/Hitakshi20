@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Hitakshi Tanna!
+### 🎓 Graduate Student | Data Enthusiast | Aspiring Data Analyst 
 
 ## 🚀 About Me
-### 🎓 Graduate Student | Data Enthusiast | Aspiring Data Analyst 
 
 Pursuing a **Master’s in Information Systems** at the **University of Maryland, Baltimore County (UMBC)**, where I focus on areas like **data mining**, **Advanced AI Algorithms**, and **ethical AI frameworks**. With hands-on experience in **data analysis**, **data visualization**, and **web development**, I'm passionate about utilizing my technical skills to solve real-world challenges and create impactful solutions.
 
