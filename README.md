@@ -1,17 +1,22 @@
 # Hi there! 👋
 ## 🚀 About Me
 
-Pursuing a **Master’s in Information Systems** at the **University of Maryland, Baltimore County (UMBC)**, where I focus on areas like **data mining**, **Advanced AI Algorithms**, and **ethical AI frameworks**. With hands-on experience in **data analysis**, **data visualization**, and **web development**, I'm passionate about utilizing my technical skills to solve real-world challenges and create impactful solutions.
 
----
 ### 🏫 Education
 - *Master of Science - Information Systems*, ***University of Maryland Baltimore County*** (Aug 2023 - May 2025)
 - *Bachelor of Engineering - Electronics & Telecommunication Engineering*, ***K. J. Somaiya Institute of Technology*** (Aug 2019 - May 2022)
 
----
+
 ### 🏢 Experience
+#### *Data Analyst* - Azzociatez InfoTech
+•	Conducted quantitative analysis and data mining using Python and SQL, deriving actionable insights that contributed to a 20% increase in project efficiency.
+•	Developed interactive dashboards and reports using Tableau and Excel to present data-driven findings to stakeholders.
+•	Assisted in building predictive models for customer behavior analysis, leading to a 15% improvement in marketing campaign effectiveness.
+•	Collaborated with cross-functional teams to gather requirements and deliver actionable insights for marketing and operational improvements.
 
-
+#### *Cyber Security Intern * - Virtually Testing Foundation 
+•	Completed 30 hours of Kube Academy courses, achieving a 25% proficiency increase in containerization and Kubernetes.
+•	Engaged in 10 VMware Hands-on Labs, resulting in a 30% improvement in virtualization and cloud computing proficiency.
 
 -----
 
