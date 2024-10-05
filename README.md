@@ -1,4 +1,4 @@
-Hi there! 👋
+## Hi there! 👋
 ### 🚀 About Me
 I’m **Hitakshi Tanna**, a graduate student in Information Systems at **UMBC**, specializing in data analysis and artificial intelligence. With over **2 years of experience** working with data, I’m passionate about using technology to solve real-world challenges and create impactful solutions. 
 
