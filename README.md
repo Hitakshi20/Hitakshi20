@@ -31,27 +31,16 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Pyhton"  alt="Python" width="40" height="40"/>&nbsp;
 
 
-### Technologies
-- MS Office (Excel, Word, PowerPoint), Tableau, Power BI, Weka, Visual Studio, Oracle SQL Developer, Jupyter Notebook
-
-### Interpersonal Skills
-- Team Collaboration, Event Planning, Communication Skills, Problem Solving, Time Management, Social Media Management, Networking
-
----
-
-## 💼 Work Experience
-
-### 1. Associate Info Tech | Data Analyst Intern | Mumbai, India (Jan - Jul 2023)
-- Analyzed data from 25 market reports and provided insights that contributed to a **10% increase** in accuracy for trend predictions.
-- Created reports that improved strategic decision-making by **15%**, offering recommendations for effective marketing strategies.
-
-### 2. Virtually Testing Foundation | Cybersecurity Intern | California, USA (Jan - Mar 2021)
-- Completed Kube Academy courses and improved containerization and Kubernetes proficiency by **25%**.
-- Participated in VMware Hands-on Labs, enhancing virtualization and cloud computing skills by **30%**.
-
----
-
-
+### 🎯  Skills 
+- ***Languages***: Python, R, HTML, CSS, JavaScript.
+- ***Databases***: SQL, MySQL, PostgreSQL, PL/SQL.
+- ***Libraries***:  Pandas, NumPy, Matplotlib, SciPy, seaborn, scikit-learn, PyTorch, TensorFlow, Keras, NLTK, OpenCV, Pillow, statsmodels, spaCy.
+- ***Data Analysis Tools***: Tableau, Microsoft PowerBI, Microsoft Excel.
+- ***ML Algorithms***: Classification, Clustering, Regression, Random Forest, Gradient Boosting, Logistic Regression, ARIMAX, Time Series Forecasting, KNN, Decision Tree, XGBoost, Apriori.
+- ***DL Algorithms***: CNN, RNN, LSTM, BERT, Transformers.
+- ***Statistical Analysis***: Hypothesis Testing, A/B Testing, ANOVA, Descriptive/Predictive Analytics.
+- ***Development Tools***: AWS (SageMaker, Lambda, S3, EC2, ECS, S3, Glue, RDS, Redshift), Microsoft Azure, Google Cloud Platform, Hadoop, Spark, Hive.
+- ***OCEANS***: argopy, cmocean, xarray, pyleoclim.
 ---
 
 ## 📫 Let’s Connect!
@@ -63,16 +52,14 @@
 ---
 
 ## 🌱 Currently Learning
-- **Business Analysis** methodologies for better decision-making
-- **DevOps** practices and automation tools
-- Advanced techniques in **AI** and **data analysis**
+- **Advacned Airtifical Intelligence Algorithms** exploring frameworks in Ethical AI
 
 ---
 
 ## 👩‍💼 Open to Opportunities
-I am seeking **Fall 2024 internships** and **Summer 2025 internships or full-time roles** in:
-- **Data Analytics**
-- **Data Visualization**
-- **AI and DevOps**
+I am seeking **2025 internships or full-time roles** for:
+- **Data Analyst**
+- **Business Analyst**
+- **Data Scientist**
 
 Feel free to reach out for collaboration or opportunities!
