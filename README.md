@@ -14,7 +14,7 @@ I’m **Hitakshi Tanna**, a graduate student in Information Systems at **UMBC**,
 •	Assisted in building predictive models for customer behavior analysis, leading to a 15% improvement in marketing campaign effectiveness.
 •	Collaborated with cross-functional teams to gather requirements and deliver actionable insights for marketing and operational improvements.
 
-#### *Cyber Security Intern * - Virtually Testing Foundation 
+#### *Cyber Security Intern* - Virtually Testing Foundation 
 •	Completed 30 hours of Kube Academy courses, achieving a 25% proficiency increase in containerization and Kubernetes.
 •	Engaged in 10 VMware Hands-on Labs, resulting in a 30% improvement in virtualization and cloud computing proficiency.
 
