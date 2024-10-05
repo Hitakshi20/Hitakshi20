@@ -33,7 +33,7 @@ I’m **Hitakshi Tanna**, a graduate student in Information Systems at **UMBC**,
 - **Email**: [htanna1@umbc.edu](mailto:htanna1@umbc.edu)
 
 
-<! --
+<!--
 ### 🌱 Currently Learning
 - **Advacned Airtifical Intelligence Algorithms**
 - **Ethical Issues in AI**
