@@ -1,9 +1,19 @@
-# Hi there 👋
+# Hi there! 👋
 ## 🚀 About Me
 
 Pursuing a **Master’s in Information Systems** at the **University of Maryland, Baltimore County (UMBC)**, where I focus on areas like **data mining**, **Advanced AI Algorithms**, and **ethical AI frameworks**. With hands-on experience in **data analysis**, **data visualization**, and **web development**, I'm passionate about utilizing my technical skills to solve real-world challenges and create impactful solutions.
 
 ---
+### 🏫 Education
+- *Master of Science - Information Systems*, ***University of Maryland Baltimore County*** (Aug 2023 - May 2025)
+- *Bachelor of Engineering - Electronics & Telecommunication Engineering*, ***K. J. Somaiya Institute of Technology*** (Aug 2019 - May 2022)
+
+---
+### 🏢 Experience
+
+
+
+-----
 
 ## 🛠️ Skills
 
