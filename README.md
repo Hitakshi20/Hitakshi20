@@ -2,7 +2,7 @@
 ## 🚀 About Me
 
 
-### 🏫 Education
+## 🏫 Education
 - *Master of Science - Information Systems*, ***University of Maryland Baltimore County*** (Aug 2023 - May 2025)
 - *Bachelor of Engineering - Electronics & Telecommunication Engineering*, ***K. J. Somaiya Institute of Technology*** (Aug 2019 - May 2022)
 
@@ -18,11 +18,11 @@
 •	Completed 30 hours of Kube Academy courses, achieving a 25% proficiency increase in containerization and Kubernetes.
 •	Engaged in 10 VMware Hands-on Labs, resulting in a 30% improvement in virtualization and cloud computing proficiency.
 
--
+
 
 ## 🛠️ Skills
 
-### Programming Languages
+## Programming Languages
 - Python, HTML, CSS, JavaScript, Advanced SQL, PL/SQL, Dynamic SQL, R
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -31,7 +31,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Pyhton"  alt="Python" width="40" height="40"/>&nbsp;
 
 
-### 🎯  Skills 
+## 🎯  Skills 
 - ***Languages***: Python, R, HTML, CSS, JavaScript.
 - ***Databases***: SQL, MySQL, PostgreSQL, PL/SQL.
 - ***Libraries***:  Pandas, NumPy, Matplotlib, SciPy, seaborn, scikit-learn, PyTorch, TensorFlow, Keras, NLTK, OpenCV, Pillow, statsmodels, spaCy.
