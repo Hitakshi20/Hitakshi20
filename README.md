@@ -29,7 +29,7 @@ I’m **Hitakshi Tanna**, a graduate student in Information Systems at **UMBC**,
 ### 📫 Let’s Connect!
 
 - **LinkedIn**: [linkedin.com/in/hitakshi-tanna](https://www.linkedin.com/in/hitakshi-tanna)
-- **GitHub**: [github.com/Hitakshi20](https://github.com/Hitakshi20)
+<!--**GitHub**: [github.com/Hitakshi20](https://github.com/Hitakshi20)-->
 - **Email**: [htanna1@umbc.edu](mailto:htanna1@umbc.edu)
 
 
