@@ -41,7 +41,7 @@ I’m **Hitakshi Tanna**, a graduate student in Information Systems at **UMBC**,
 
 
 ### Open to Opportunities
-I am seeking **2025 internships or full-time roles** for:
+I am seeking **2025 Full-time roles** for:
 - **Data Analyst**
 - **Business Analyst**
 - **Data Scientist**
