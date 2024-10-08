@@ -10,12 +10,16 @@ I’m **Hitakshi Tanna**, a graduate student in Information Systems at **UMBC**,
 ### 🏢 Experience
 #### *Data Analyst* - Azzociatez InfoTech
 •	Conducted quantitative analysis and data mining using Python and SQL, deriving actionable insights that contributed to a 20% increase in project efficiency.
+
 •	Developed interactive dashboards and reports using Tableau and Excel to present data-driven findings to stakeholders.
+
 •	Assisted in building predictive models for customer behavior analysis, leading to a 15% improvement in marketing campaign effectiveness.
+
 •	Collaborated with cross-functional teams to gather requirements and deliver actionable insights for marketing and operational improvements.
 
 #### *Cyber Security Intern* - Virtually Testing Foundation 
 •	Completed 30 hours of Kube Academy courses, achieving a 25% proficiency increase in containerization and Kubernetes.
+
 •	Engaged in 10 VMware Hands-on Labs, resulting in a 30% improvement in virtualization and cloud computing proficiency.
 
 
