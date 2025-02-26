@@ -8,24 +8,23 @@ I am passionate about bridging the gap between business strategy and AI-powered 
 
 ### 🏫 Education
 - *Master of Science - Information Systems*, ***University of Maryland Baltimore County*** (Aug 2023 - May 2025)
-*Relevant Coursework* - Cloud Computing | Advanced Artificial Intelligence | Ethical Artificial Intelligence | Data Analytics for Cybersecuirty | Introduction to Database Management | Decision Technology Systems | Management Information Systems| Data Mining | Structured System Analysis and Design | Advanced Database Projects | 
 - *Bachelor of Engineering - Electronics & Telecommunication Engineering*, ***K. J. Somaiya Institute of Technology*** (Aug 2019 - May 2022)
-Big Data Analytics | Natural Language Processing | 
+*Relevant Coursework* - Cloud Computing | Advanced Artificial Intelligence | Ethical Artificial Intelligence | Data Analytics for Cybersecuirty | Introduction to Database Management | Decision Technology Systems | Management Information Systems| Data Mining | Structured System Analysis and Design | Advanced Database Projects | Big Data Analytics | Natural Language Processing | Image Processing and Computer Vision | 
 
 ### 🏢 Experience
 #### *Data Analyst* - Azzociatez InfoTech
-•	Conducted quantitative analysis & data mining using Python (Pandas, NumPy) and SQL, leading to a 20% improvement in operational efficiency.
-•	Designed and implemented predictive models to analyze customer behavior and trends, leading to a 15% increase in marketing campaign effectiveness.
-•	Developed interactive dashboards & reports using Tableau, Power BI, and Excel, enabling data-driven decision-making across departments.
-•	Optimized SQL queries and database performance, reducing query execution time by 30% and improving reporting efficiency.
-•	Led A/B testing and KPI tracking, providing actionable insights that helped the business refine its strategies.
-•	Worked closely with cross-functional teams, translating complex datasets into clear, strategic recommendations for stakeholders.
+1. Conducted quantitative analysis & data mining using Python (Pandas, NumPy) and SQL, leading to a 20% improvement in operational efficiency.
+2. Designed and implemented predictive models to analyze customer behavior and trends, leading to a 15% increase in marketing campaign effectiveness.
+3. Developed interactive dashboards & reports using Tableau, Power BI, and Excel, enabling data-driven decision-making across departments.
+4. Optimized SQL queries and database performance, reducing query execution time by 30% and improving reporting efficiency.
+5. Led A/B testing and KPI tracking, providing actionable insights that helped the business refine its strategies.
+6. Worked closely with cross-functional teams, translating complex datasets into clear, strategic recommendations for stakeholders.
 
 #### *Cyber Security Intern* - Virtually Testing Foundation 
-•	Completed 30 hours of Kube Academy courses, increasing containerization & Kubernetes proficiency by 25%.
-• Engaged in 10 VMware Hands-on Labs, resulting in a 30% improvement in virtualization and cloud computing expertise.
-• Gained hands-on experience in network security, cloud infrastructure, and threat analysis, strengthening cybersecurity fundamentals.
-• Conducted vulnerability assessments and penetration testing, identifying key security weaknesses and suggesting mitigation strategies.
+1. Completed 30 hours of Kube Academy courses, increasing containerization & Kubernetes proficiency by 25%.
+2. Engaged in 10 VMware Hands-on Labs, resulting in a 30% improvement in virtualization and cloud computing expertise.
+3. Gained hands-on experience in network security, cloud infrastructure, and threat analysis, strengthening cybersecurity fundamentals.
+4. Conducted vulnerability assessments and penetration testing, identifying key security weaknesses and suggesting mitigation strategies.
 
 ### 🎯  Skills 
 - ***Languages***: Python, R, HTML, CSS, JavaScript, Advanced SQL, PL/SQL, Dynamic SQL.
