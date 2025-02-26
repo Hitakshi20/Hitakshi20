@@ -1,27 +1,31 @@
-## Hello! 👋
 ### 🚀 About Me
-I’m **Hitakshi Tanna**, a graduate student in Information Systems at **UMBC**, specializing in data science and artificial intelligence. With over **2 years of experience** working with data, I’m passionate about using technology to solve real-world challenges and create impactful solutions. 
+Hello! I am a results-driven Data Analyst and aspiring Data Scientist with over 2 years of experience in data analytics, machine learning, artificial intelligence, and business intelligence. Passionate about leveraging data science and AI to solve real-world challenges, I specialize in transforming raw data into actionable insights to enhance efficiency, optimize decision-making, and drive business growth.
+Proficient in Python, R, and SQL, I have expertise in statistical analysis, predictive modeling, A/B testing, and exploratory data analysis (EDA). My experience includes building machine learning models, deploying data pipelines, and working with big data technologies such as Databricks, Apache Spark, ETL, and Apache Airflow to process large-scale datasets.
+With a strong foundation in Artificial Intelligence (AI) and Natural Language Processing (NLP), I have worked on LLM-powered solutions, AI-driven automation, and intelligent question-answering systems. I am experienced in implementing neural networks, deep learning models, and retrieval-augmented generation (RAG) to create scalable AI applications that enhance information retrieval, automate decision-making, and improve user experiences.
+My expertise extends to cloud computing (AWS, Azure, Snowflake, Google BigQuery) and data visualization tools (Tableau, Power BI, Looker), enabling me to design interactive dashboards and reports that empower businesses with data-driven insights.
+I am passionate about bridging the gap between business strategy and AI-powered analytics, ensuring that cutting-edge machine learning and AI solutions create tangible business impact. Always eager to innovate, learn, and collaborate, I thrive in environments that encourage problem-solving, critical thinking, and continuous growth.
+
 
 ### 🏫 Education
 - *Master of Science - Information Systems*, ***University of Maryland Baltimore County*** (Aug 2023 - May 2025)
+*Relevant Coursework* - Cloud Computing | Advanced Artificial Intelligence | Ethical Artificial Intelligence | Data Analytics for Cybersecuirty | Introduction to Database Management | Decision Technology Systems | Management Information Systems| Data Mining | Structured System Analysis and Design | Advanced Database Projects | 
 - *Bachelor of Engineering - Electronics & Telecommunication Engineering*, ***K. J. Somaiya Institute of Technology*** (Aug 2019 - May 2022)
-
+Big Data Analytics | Natural Language Processing | 
 
 ### 🏢 Experience
 #### *Data Analyst* - Azzociatez InfoTech
-•	Conducted quantitative analysis and data mining using Python and SQL, deriving actionable insights that contributed to a 20% increase in project efficiency.
-
-•	Developed interactive dashboards and reports using Tableau and Excel to present data-driven findings to stakeholders.
-
-•	Assisted in building predictive models for customer behavior analysis, leading to a 15% improvement in marketing campaign effectiveness.
-
-•	Collaborated with cross-functional teams to gather requirements and deliver actionable insights for marketing and operational improvements.
+•	Conducted quantitative analysis & data mining using Python (Pandas, NumPy) and SQL, leading to a 20% improvement in operational efficiency.
+•	Designed and implemented predictive models to analyze customer behavior and trends, leading to a 15% increase in marketing campaign effectiveness.
+•	Developed interactive dashboards & reports using Tableau, Power BI, and Excel, enabling data-driven decision-making across departments.
+•	Optimized SQL queries and database performance, reducing query execution time by 30% and improving reporting efficiency.
+•	Led A/B testing and KPI tracking, providing actionable insights that helped the business refine its strategies.
+•	Worked closely with cross-functional teams, translating complex datasets into clear, strategic recommendations for stakeholders.
 
 #### *Cyber Security Intern* - Virtually Testing Foundation 
-•	Completed 30 hours of Kube Academy courses, achieving a 25% proficiency increase in containerization and Kubernetes.
-
-•	Engaged in 10 VMware Hands-on Labs, resulting in a 30% improvement in virtualization and cloud computing proficiency.
-
+•	Completed 30 hours of Kube Academy courses, increasing containerization & Kubernetes proficiency by 25%.
+• Engaged in 10 VMware Hands-on Labs, resulting in a 30% improvement in virtualization and cloud computing expertise.
+• Gained hands-on experience in network security, cloud infrastructure, and threat analysis, strengthening cybersecurity fundamentals.
+• Conducted vulnerability assessments and penetration testing, identifying key security weaknesses and suggesting mitigation strategies.
 
 ### 🎯  Skills 
 - ***Languages***: Python, R, HTML, CSS, JavaScript, Advanced SQL, PL/SQL, Dynamic SQL.
