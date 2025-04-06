@@ -6,15 +6,7 @@
 </p>
 
 ### 🚀 About Me
-Hello! I am a **results-driven **Data Analyst**** and **aspiring **Data Scientist**** with over **2 years of experience** in *data analytics, machine learning, artificial intelligence, and business intelligence*. Passionate about leveraging data science and AI to solve real-world challenges, I specialize in transforming raw data into actionable insights to enhance efficiency, optimize decision-making, and drive business growth.
-
-Proficient in **Python, R, and SQL**, I have expertise in statistical analysis, predictive modeling, A/B testing, and exploratory data analysis (EDA). My experience includes building machine learning models, deploying data pipelines, and working with big data technologies such as Databricks, Apache Spark, ETL, and Apache Airflow to process large-scale datasets.
-
-With a strong foundation in **Artificial Intelligence (AI) and Natural Language Processing (NLP)**, I have worked on LLM-powered solutions, AI-driven automation, and intelligent question-answering systems. I am experienced in implementing neural networks, deep learning models, and retrieval-augmented generation (RAG) to create scalable AI applications that enhance information retrieval, automate decision-making, and improve user experiences.
-
-My expertise extends to **cloud computing (AWS, Azure, Snowflake, Google BigQuery) and data visualization tools (Tableau, Power BI, Looker)**, enabling me to design interactive dashboards and reports that empower businesses with data-driven insights.
-
-I am passionate about bridging the gap between business strategy and AI-powered analytics, ensuring that cutting-edge machine learning and AI solutions create tangible business impact. Always eager to innovate, learn, and collaborate, I thrive in environments that encourage problem-solving, critical thinking, and continuous growth.
+🎯 I’m a Data Analyst with 2+ years of experience in analytics, ML, and AI. I specialize in transforming data into actionable insights, with hands-on skills in Python, SQL, and cloud tools like AWS and Spark. Passionate about leveraging AI/LLMs to solve real-world problems and create business value.
 
 ### 🏫 Education
 - 🎓 *Master of Science - Information Systems*,
