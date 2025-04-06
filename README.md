@@ -6,7 +6,7 @@
 </p>
 
 ### 🚀 About Me
-🎯 I’m a Data Analyst with 2+ years of experience in analytics, ML, and AI. I specialize in transforming data into actionable insights, with hands-on skills in Python, SQL, and cloud tools like AWS and Spark. Passionate about leveraging AI/LLMs to solve real-world problems and create business value.
+🎯 I’m a Data Analyst with 2+ years of experience in analytics, data visualization, and machine learning. I specialize in transforming data into actionable insights, with hands-on skills in Python, SQL, and cloud tools like AWS. Passionate about leveraging AI/LLMs to solve real-world problems and create business value.
 
 ### 🏫 Education
 - 🎓 *Master of Science - Information Systems*,
