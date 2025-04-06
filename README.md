@@ -7,8 +7,6 @@
 or connect on <a href="https://linkedin.com/in/hitakshi-tanna">LinkedIn</a>.
 </p>
 
-https://github.com/saadeghi/saadeghi/blob/d5c2b6e794a7c913bb9ca66faaacae2be84fd537/dino.gif
-
 ### 🚀 About Me
 🎯 I’m a Data Analyst with 2+ years of experience in analytics, data visualization, and machine learning. I specialize in transforming data into actionable insights, with hands-on skills in Python, SQL, and cloud tools like AWS. Passionate about leveraging AI/LLMs to solve real-world problems and create business value.
 
