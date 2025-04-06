@@ -1,8 +1,10 @@
 <h1 align="center"> Hi, I'm Hitakshi Tanna! 👋</h1>
 <p align="center">
-🎯 Data Analyst | Data Scientist | AI Enthusiast
+🎯 Data Analyst | Data Scientist | Business Intelligence Analyst | AI Enthusiast
 📍 Based in the United States  
 📧 Contact: <a href="mailto:hitakshitanna5@gmail.com">hitakshitanna5@gmail.com</a>  
+📄 Check out my [Resume](https://drive.google.com/file/d/1po8DwiBjur9hli5MOqrdt9o0m7_IgrVj/view?usp=sharing) 
+or connect on [LinkedIn](https://linkedin.com/in/hitakshi-tanna).
 </p>
 
 ### 🚀 About Me
