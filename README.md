@@ -3,7 +3,7 @@
 🎯 Data Analyst | Data Scientist | Business Intelligence Analyst | AI Enthusiast
 📍 Based in the United States  
 📧 Contact: <a href="mailto:hitakshitanna5@gmail.com">hitakshitanna5@gmail.com</a> | 
-📄 Check out my <a href="https://drive.google.com/file/d/1po8DwiBjur9hli5MOqrdt9o0m7_IgrVj/view?usp=sharing">Resume</a>
+📄 Check out my <a href="https://docs.google.com/document/d/1OG3Ps6Hkr5yWM7MqDjNxKdUhwTBBtQiL/edit?usp=sharing&ouid=106024487162961214260&rtpof=true&sd=true">Resume</a>
 or connect on <a href="https://linkedin.com/in/hitakshi-tanna">LinkedIn</a>.
 </p>
 
