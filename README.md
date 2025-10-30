@@ -4,7 +4,6 @@
   📍 Based in the United States | 📧 Contact: <a href="mailto:hitakshitanna5@gmail.com">hitakshitanna5@gmail.com</a> | Connect on <a href="https://linkedin.com/in/hitakshi-tanna">LinkedIn</a>.
 </h4>
 
----
 
 ### About Me
 I'm Hitakshi Tanna — a data-driven problem solver passionate about transforming raw data into meaningful insights and intelligent solutions.  
@@ -48,8 +47,8 @@ Outside of analytics, I love exploring AI agents, visual storytelling with data,
 ### Interests
 AI for Decision Support · Data Storytelling · Cloud Data Pipelines · Agentic Automation · Ethical AI  
 
----
 
-_“Data is the new language of business — I translate it into impactful stories.”_
+
+**_“Data is the new language of business — I translate it into impactful stories.”_**
 
 Always analyzing. Always learning. Always building. 📈
