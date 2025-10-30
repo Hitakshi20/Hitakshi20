@@ -12,16 +12,6 @@ With 3+ years of experience in analytics, machine learning, and business intelli
 I thrive at the intersection of **Data Analytics, Data Visualization, AI/LLMs, and Cloud Technologies**, designing pipelines, visualizations, and decision systems that drive measurable value.  
 Outside of analytics, I love exploring AI agents, visual storytelling with data, and building community-driven knowledge resources.
 
-
-
-### Education
-- *Master of Science - Information Systems*,
-***University of Maryland Baltimore County*** _(Aug 2023 - May 2025)_
-- *Bachelor of Engineering - Electronics & Telecommunication Engineering*,
-***K. J. Somaiya Institute of Technology*** _(Aug 2019 - May 2022)_
-
-
-
 ###  What I'm Doing
 - Building data driven insights into business impacts  
 - Exploring cloud-based data automation using AWS & Snowflake  
